@@ -1,0 +1,215 @@
+Date,Client,Email,Telephone,Montant_HT,Statut
+2024-01-15,SARL ATLAS,contact@atlas.ma,06 61 12 34 56,1500,payé
+2024-01-15,SARL ATLAS,contact@atlas.ma,0661123456,1500,Payé
+2024/01/16,societe B,info@societeb.com,06.62.99.88.77,invalid,non payé
+2024-01-17,Cabinet K,k@gmail.com,0611223344,3200,PAYÉ
+2024-06-27,Maroc Logistics,contact@maroclogistics.ma,0655443322,3200,En attente
+2024-07-22,Souss Export,sales@sousse xport.ma,0699887766,3200,PAYÉ
+2024-11-23,Cabinet K,k@gmail.com,0611223344,1200,Non Payé
+2024-05-08,Digital Solutions,hello@digitalsolutions.ma,0644332211,8000,En attente
+2024-09-21,Cabinet K,k@gmail.com,0611223344,3200,Payé
+2024-03-13,Cabinet K,k@gmail.com,0611223344,1200,annulé
+2024-04-24,SARL ATLAS,contact@atlas.ma,0661123456,4500,non payé
+2024-11-16,BatiServices SARL,devis@batiservices.ma,0612345678,0,En attente
+2024-06-27,Cabinet K,k@gmail.com,0611223344,1200,non payé
+2024-11-20,Cabinet K,k@gmail.com,0611223344,3200,En attente
+2024-06-16,SARL ATLAS,contact@atlas.ma,0661123456,1500,Payé
+2024-08-08,Maroc Logistics,contact@maroclogistics.ma,0655443322,1500,annulé
+2024-06-04,BatiServices SARL,devis@batiservices.ma,0612345678,4500,PAYE
+2024-10-17,Maghreb Auto,commercial@maghrebauto.ma,0677889900,500,PAYE
+2024-05-19,Société B,info@societeb.com,0662998877,4500,PAYE
+2024-12-13,Cabinet K,k@gmail.com,0611223344,4500,Payé
+2024/07/18,Digital Solutions,hello@digitalsolutions.ma,0644332211,0,annulé
+2024-02-12,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,invalid,En attente
+2024-08-13,Souss Export,sales@sousse xport.ma,0699887766,1200,En attente
+2024-11-19,Digital Solutions,hello@digitalsolutions.ma,0644332211,invalid,annulé
+2024-05-13,   ,devis@batiservices.ma,0612345678,4500,Payé
+2024-04-12,Société B,info@societeb.com,0662998877,1500,Payé
+2024-06-13,Maroc Logistics,contact@maroclogistics.ma,0655443322,0,Payé
+2024-02-20,SARL ATLAS,contact@atlas.ma,0661123456,0,Payé
+2024-05-24,Souss Export,sales@sousse xport.ma,0699887766,1200,Payé
+2024-06-15,BatiServices SARL,devis@batiservices.ma,0612345678,8000,payé
+2024-06-14,Maghreb Auto,commercial@maghrebauto.ma,0677889900,1200,Non Payé
+2024-04-23,Société B,info@societeb.com,0662998877,3200,Non Payé
+2024-10-12,Maroc Logistics,contact@maroclogistics.ma,0655443322,1500,Non Payé
+2024-08-02,Société B,info@societeb.com,0662998877,4500,PAYE
+2024-02-06,Société B,info@societeb.com,0662998877,1200,payé
+2024-01-21,Maghreb Auto,commercial@maghrebauto.ma,0677889900,8000,annulé
+2024-04-15,Société B,info@societeb.com,0662998877,4500,PAYÉ
+2024-01-06,Souss Export,sales@sousse xport.ma,0699887766,500,non payé
+2024-07-19,Atlas Tech,support@atlastech.ma,0522112233,8000,annulé
+2024-12-07,Maroc Logistics,contact@maroclogistics.ma,0655443322,2300,annulé
+2024-04-18,Souss Export,sales@sousse xport.ma,0699887766,1200,annulé
+2024-06-18,Maroc Logistics,contact@maroclogistics.ma,0655443322,3200,Payé
+2024-06-10,BatiServices SARL,devis@batiservices.ma,0612345678,0,PAYÉ
+2024-04-20,Société B,info@societeb.com,0662998877,1500,annulé
+2024-01-09,Cabinet K,k@gmail.com,0611223344,2300,non payé
+2024-06-01,Souss Export,sales@sousse xport.ma,0699887766,500,payé
+2024-01-27,SARL ATLAS,contact@atlas.ma,0661123456,4500,annulé
+2024-10-05,BatiServices SARL,devis@batiservices.ma,0612345678,2300,PAYE
+2024-07-03,Maghreb Auto,commercial@maghrebauto.ma,0677889900,8000,annulé
+2024/04/10,Cabinet K,k@gmail.com,0611223344,4500,payé
+2024/04/10,   ,contact@pharmacentre.ma,0537889900,2300,PAYÉ
+2024-10-17,Souss Export,sales@sousse xport.ma,0699887766,3200,PAYE
+2024-04-19,BatiServices SARL,devis@batiservices.ma,0612345678,8000,PAYÉ
+2024-11-08,Société B,info@societeb.com,0662998877,3200,PAYE
+2024-11-08,Atlas Tech,support@atlastech.ma,0522112233,500,En attente
+2024-01-12,Digital Solutions,hello@digitalsolutions.ma,0644332211,500,PAYE
+2024/07/03,SARL ATLAS,contact@atlas.ma,0661123456,1200,payé
+2024-04-26,Société B,info@societeb.com,0662998877,2300,annulé
+2024-03-10,Atlas Tech,support@atlastech.ma,0522112233,3200,Non Payé
+2024-02-05,SARL ATLAS,contact@atlas.ma,0661123456,1500,En attente
+2024/02/23,Maghreb Auto,commercial@maghrebauto.ma,0677889900,invalid,Payé
+2024-11-06,SARL ATLAS,contact@atlas.ma,0661123456,1200,PAYÉ
+2024-01-17,Atlas Tech,support@atlastech.ma,0522112233,invalid,payé
+2024-04-18,BatiServices SARL,devis@batiservices.ma,0612345678,500,PAYÉ
+2024-09-22,Maghreb Auto,commercial@maghrebauto.ma,0677889900,500,En attente
+2024-07-21,Atlas Tech,support@atlastech.ma,0522112233,8000,PAYE
+2024-04-07,Maghreb Auto,commercial@maghrebauto.ma,0677889900,0,payé
+2024-08-16,BatiServices SARL,devis@batiservices.ma,0612345678,8000,En attente
+2024-02-08,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,invalid,PAYE
+2024-08-06,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,3200,PAYE
+2024-09-26,Souss Export,sales@sousse xport.ma,0699887766,1200,Payé
+2024-01-11,Maroc Logistics,contact@maroclogistics.ma,0655443322,500,En attente
+2024-09-12,Souss Export,sales@sousse xport.ma,0699887766,invalid,PAYÉ
+2024-04-16,Cabinet K,k@gmail.com,0611223344,1500,payé
+2024-10-27,Atlas Tech,support@atlastech.ma,0522112233,3200,PAYE
+2024-12-05,BatiServices SARL,devis@batiservices.ma,0612345678,3200,annulé
+2024-10-22,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,1200,payé
+2024-03-13,SARL ATLAS,contact@atlas.ma,0661123456,3200,non payé
+2024-04-25,Cabinet K,k@gmail.com,0611223344,2300,PAYÉ
+2024-05-19,Société B,info@societeb.com,0662998877,4500,PAYE
+2024-04-06,Digital Solutions,hello@digitalsolutions.ma,0644332211,0,PAYE
+2024-10-11,Société B,info@societeb.com,0662998877,0,annulé
+2024-08-07,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,500,PAYÉ
+2024-01-06,SARL ATLAS,contact@atlas.ma,0661123456,500,PAYÉ
+2024-07-16,Digital Solutions,hello@digitalsolutions.ma,0644332211,8000,non payé
+2024-12-15,Souss Export,sales@sousse xport.ma,0699887766,2300,non payé
+2024-11-18,Maghreb Auto,commercial@maghrebauto.ma,0677889900,500,annulé
+2024-05-09,BatiServices SARL,devis@batiservices.ma,0612345678,0,Payé
+2024-12-05,Atlas Tech,support@atlastech.ma,0522112233,8000,Payé
+2024-07-14,Maroc Logistics,contact@maroclogistics.ma,0655443322,1200,non payé
+2024-06-27,Société B,info@societeb.com,0662998877,8000,PAYE
+2024-10-22,SARL ATLAS,contact@atlas.ma,0661123456,2300,Payé
+2024-01-11,Atlas Tech,support@atlastech.ma,0522112233,3200,Non Payé
+2024-01-24,SARL ATLAS,contact@atlas.ma,0661123456,3200,non payé
+2024-03-07,Souss Export,sales@sousse xport.ma,0699887766,invalid,PAYE
+2024-03-23,Maghreb Auto,commercial@maghrebauto.ma,0677889900,1500,PAYÉ
+2024-02-11,Cabinet K,k@gmail.com,0611223344,4500,Non Payé
+2024-02-16,Digital Solutions,hello@digitalsolutions.ma,0644332211,3200,En attente
+2024-09-11,Souss Export,sales@sousse xport.ma,0699887766,0,En attente
+2024-04-05,Maroc Logistics,contact@maroclogistics.ma,0655443322,1200,non payé
+2024-08-19,Souss Export,sales@sousse xport.ma,0699887766,invalid,payé
+2024-11-07,BatiServices SARL,devis@batiservices.ma,0612345678,500,non payé
+2024-03-25,BatiServices SARL,devis@batiservices.ma,0612345678,1500,Payé
+2024-04-25,Cabinet K,k@gmail.com,0611223344,4500,non payé
+2024-08-05,Maroc Logistics,contact@maroclogistics.ma,0655443322,0,non payé
+2024-10-07,Digital Solutions,hello@digitalsolutions.ma,0644332211,invalid,non payé
+2024-12-09,SARL ATLAS,contact@atlas.ma,0661123456,8000,Non Payé
+2024-09-11,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,3200,annulé
+2024-09-03,Digital Solutions,hello@digitalsolutions.ma,0644332211,0,Non Payé
+2024-11-18,Société B,info@societeb.com,0662998877,0,Non Payé
+2024-03-06,Maghreb Auto,commercial@maghrebauto.ma,0677889900,1500,PAYE
+2024-05-08,Atlas Tech,support@atlastech.ma,0522112233,2300,PAYE
+2024-10-18,Maghreb Auto,commercial@maghrebauto.ma,0677889900,4500,annulé
+2024-04-26,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,1500,PAYÉ
+2024-10-16,Maroc Logistics,contact@maroclogistics.ma,0655443322,8000,Non Payé
+2024-02-21,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,1200,payé
+2024-02-25,Digital Solutions,hello@digitalsolutions.ma,0644332211,2300,annulé
+2024-11-19,Maroc Logistics,contact@maroclogistics.ma,0655443322,1200,payé
+2024-10-07,Souss Export,sales@sousse xport.ma,0699887766,3200,PAYE
+2024-02-26,SARL ATLAS,contact@atlas.ma,0661123456,0,Payé
+2024-12-05,BatiServices SARL,devis@batiservices.ma,0612345678,0,non payé
+2024-02-09,Maghreb Auto,commercial@maghrebauto.ma,0677889900,1200,Payé
+2024-05-08,Cabinet K,k@gmail.com,0611223344,4500,non payé
+2024/01/18,BatiServices SARL,devis@batiservices.ma,0612345678,1200,En attente
+2024-05-08,Digital Solutions,hello@digitalsolutions.ma,0644332211,2300,PAYÉ
+2024-07-16,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,3200,En attente
+2024-05-25,Atlas Tech,support@atlastech.ma,0522112233,4500,PAYÉ
+2024-03-26,Cabinet K,k@gmail.com,0611223344,8000,annulé
+2024-10-19,Société B,info@societeb.com,0662998877,4500,non payé
+2024-05-04,Souss Export,sales@sousse xport.ma,0699887766,1500,payé
+2024-11-24,Maroc Logistics,contact@maroclogistics.ma,0655443322,1200,PAYE
+2024-04-10,BatiServices SARL,devis@batiservices.ma,0612345678,2300,Payé
+2024-09-26,BatiServices SARL,devis@batiservices.ma,0612345678,0,PAYE
+2024-07-05,BatiServices SARL,devis@batiservices.ma,0612345678,500,PAYE
+2024-12-06,Maroc Logistics,contact@maroclogistics.ma,0655443322,0,Payé
+2024-11-09,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,0,Non Payé
+2024-11-15,Cabinet K,k@gmail.com,0611223344,1200,Payé
+2024-12-17,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,1500,payé
+2024/03/01,Souss Export,sales@sousse xport.ma,0699887766,8000,En attente
+2024-07-12,Digital Solutions,hello@digitalsolutions.ma,0644332211,2300,non payé
+2024-06-20,Digital Solutions,hello@digitalsolutions.ma,0644332211,500,non payé
+2024-03-15,SARL ATLAS,contact@atlas.ma,0661123456,2300,non payé
+2024-08-10,Maroc Logistics,contact@maroclogistics.ma,0655443322,1200,PAYÉ
+2024-08-02,Atlas Tech,support@atlastech.ma,0522112233,invalid,Non Payé
+2024/01/26,BatiServices SARL,devis@batiservices.ma,0612345678,4500,annulé
+2024-11-26,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,1500,non payé
+2024-09-06,Maghreb Auto,commercial@maghrebauto.ma,0677889900,1500,Payé
+2024-08-08,Digital Solutions,hello@digitalsolutions.ma,0644332211,4500,En attente
+2024-07-20,Société B,info@societeb.com,0662998877,4500,Payé
+2024-05-13,Digital Solutions,hello@digitalsolutions.ma,0644332211,2300,PAYÉ
+2024-04-03,Cabinet K,k@gmail.com,0611223344,3200,En attente
+2024-04-18,Maghreb Auto,commercial@maghrebauto.ma,0677889900,1500,En attente
+2024/05/01,   ,contact@maroclogistics.ma,0655443322,8000,annulé
+2024-03-01,Atlas Tech,support@atlastech.ma,0522112233,3200,PAYÉ
+2024-08-07,Société B,info@societeb.com,0662998877,invalid,PAYÉ
+2024-08-06,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,1500,Payé
+2024-04-10,Souss Export,sales@sousse xport.ma,0699887766,2300,annulé
+2024-07-21,   ,sales@sousse xport.ma,0699887766,2300,En attente
+2024-12-05,Cabinet K,k@gmail.com,0611223344,invalid,PAYE
+2024-03-05,Souss Export,sales@sousse xport.ma,0699887766,3200,PAYE
+2024-03-22,Société B,info@societeb.com,0662998877,0,En attente
+2024-08-22,Société B,info@societeb.com,0662998877,8000,non payé
+2024-02-17,Maroc Logistics,contact@maroclogistics.ma,0655443322,0,non payé
+2024-02-06,Maroc Logistics,contact@maroclogistics.ma,0655443322,3200,PAYE
+2024-07-12,Digital Solutions,hello@digitalsolutions.ma,0644332211,0,Payé
+2024-03-20,Digital Solutions,hello@digitalsolutions.ma,0644332211,2300,Payé
+2024-11-13,SARL ATLAS,contact@atlas.ma,0661123456,0,Payé
+2024-04-05,Maroc Logistics,contact@maroclogistics.ma,0655443322,invalid,non payé
+2024-10-11,Maroc Logistics,contact@maroclogistics.ma,0655443322,3200,Payé
+2024-12-13,Société B,info@societeb.com,0662998877,8000,Payé
+2024-03-02,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,invalid,payé
+2024-04-04,Maghreb Auto,commercial@maghrebauto.ma,0677889900,500,non payé
+2024-03-06,Digital Solutions,hello@digitalsolutions.ma,0644332211,2300,non payé
+2024-10-26,Atlas Tech,support@atlastech.ma,0522112233,1200,Payé
+2024-04-15,Maroc Logistics,contact@maroclogistics.ma,0655443322,1200,non payé
+2024-05-12,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,0,Non Payé
+2024-06-02,Digital Solutions,hello@digitalsolutions.ma,0644332211,4500,En attente
+2024-08-03,Atlas Tech,support@atlastech.ma,0522112233,500,Payé
+2024-05-01,SARL ATLAS,contact@atlas.ma,0661123456,1500,Payé
+2024-01-19,SARL ATLAS,contact@atlas.ma,0661123456,8000,non payé
+2024-07-13,Maghreb Auto,commercial@maghrebauto.ma,0677889900,invalid,PAYE
+2024/08/21,   ,hello@digitalsolutions.ma,0644332211,8000,annulé
+2024-02-05,Atlas Tech,support@atlastech.ma,0522112233,1500,En attente
+2024-03-11,Maghreb Auto,commercial@maghrebauto.ma,0677889900,2300,PAYÉ
+2024/10/23,Digital Solutions,hello@digitalsolutions.ma,0644332211,1200,Payé
+2024-12-09,SARL ATLAS,contact@atlas.ma,0661123456,2300,PAYÉ
+2024-12-10,Cabinet K,k@gmail.com,0611223344,3200,PAYE
+2024-08-03,SARL ATLAS,contact@atlas.ma,0661123456,0,PAYÉ
+2024-10-23,Maghreb Auto,commercial@maghrebauto.ma,0677889900,3200,non payé
+2024-06-21,Maroc Logistics,contact@maroclogistics.ma,0655443322,500,PAYÉ
+2024-02-13,Souss Export,sales@sousse xport.ma,0699887766,1200,annulé
+2024/02/27,SARL ATLAS,contact@atlas.ma,0661123456,0,annulé
+2024-04-17,Cabinet K,k@gmail.com,0611223344,500,payé
+2024-04-23,Maghreb Auto,commercial@maghrebauto.ma,0677889900,invalid,PAYÉ
+2024-11-25,Société B,info@societeb.com,0662998877,0,non payé
+2024-08-07,Cabinet K,k@gmail.com,0611223344,0,Payé
+2024-09-16,Maroc Logistics,contact@maroclogistics.ma,0655443322,2300,PAYE
+2024-12-07,Maghreb Auto,commercial@maghrebauto.ma,0677889900,invalid,annulé
+2024-10-14,Pharmacie Du Centre,contact@pharmacentre.ma,0537889900,2300,En attente
+2024-09-11,Digital Solutions,hello@digitalsolutions.ma,0644332211,3200,annulé
+2024/12/16,Digital Solutions,hello@digitalsolutions.ma,0644332211,1200,Payé
+2024-08-27,BatiServices SARL,devis@batiservices.ma,0612345678,2300,Non Payé
+2024-05-08,Maroc Logistics,contact@maroclogistics.ma,0655443322,4500,Payé
+2024-09-26,BatiServices SARL,devis@batiservices.ma,0612345678,500,Non Payé
+2024-06-04,BatiServices SARL,devis@batiservices.ma,0612345678,4500,annulé
+2024-06-19,Souss Export,sales@sousse xport.ma,0699887766,0,Non Payé
+2024-12-17,Cabinet K,k@gmail.com,0611223344,3200,non payé
+2024-11-14,Souss Export,sales@sousse xport.ma,0699887766,500,annulé
+2024-05-25,Atlas Tech,support@atlastech.ma,0522112233,invalid,non payé
+2024-12-27,BatiServices SARL,devis@batiservices.ma,0612345678,1200,PAYÉ
+2024-02-10,Société B,info@societeb.com,0662998877,invalid,non payé
+2024-12-23,Maroc Logistics,contact@maroclogistics.ma,0655443322,1200,payé
+2024-12-27,Société B,info@societeb.com,0662998877,2300,non payé
+2024-11-20,SARL ATLAS,contact@atlas.ma,0661123456,1500,Payé

@@ -1,0 +1,5 @@
+Statut,Transaction_Count,Total_Revenue,Average_Order_Value
+Cancelled,27,76400.0,2829.63
+Paid,106,206500.0,1948.11
+Pending,23,59700.0,2595.65
+Unpaid,52,113700.0,2186.54
